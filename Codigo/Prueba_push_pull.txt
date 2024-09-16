@@ -1,1 +1,2 @@
 Prueba para ver si estan sincronizados los documentos en ambos computadores.
+Esta prueba la estoy haciendo desde el pc de escritorio, para verificar si se sincronizan los datos en el portatil.
